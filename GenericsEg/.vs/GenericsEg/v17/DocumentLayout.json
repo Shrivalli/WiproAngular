@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|e:\\wipro\\dotnet with angular batch\\genericseg\\hashtableeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|solutionrelative:hashtableeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|e:\\wipro\\dotnet with angular batch\\genericseg\\listeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|solutionrelative:listeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|e:\\wipro\\dotnet with angular batch\\genericseg\\arraylisteg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|solutionrelative:arraylisteg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|e:\\wipro\\dotnet with angular batch\\genericseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61591FE-A947-41B0-8902-D088DB5794BF}|GenericsEg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListEg.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\ListEg.cs",
+              "RelativeDocumentMoniker": "ListEg.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\ListEg.cs",
+              "RelativeToolTip": "ListEg.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:17:44.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashtableEg.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\HashtableEg.cs",
+              "RelativeDocumentMoniker": "HashtableEg.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\HashtableEg.cs",
+              "RelativeToolTip": "HashtableEg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:19:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayListEg.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\ArrayListEg.cs",
+              "RelativeDocumentMoniker": "ArrayListEg.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\ArrayListEg.cs",
+              "RelativeToolTip": "ArrayListEg.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAjwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:23:00.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\GenericsEg\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:38:45.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

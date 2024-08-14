@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|e:\\wipro\\dotnet with angular batch\\efcoreeg\\efcoreeg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|solutionrelative:efcoreeg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|e:\\wipro\\dotnet with angular batch\\efcoreeg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|e:\\wipro\\dotnet with angular batch\\efcoreeg\\models\\wiprosampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|solutionrelative:models\\wiprosampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|e:\\wipro\\dotnet with angular batch\\efcoreeg\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|e:\\wipro\\dotnet with angular batch\\efcoreeg\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3FD24D-C315-4699-B89F-6E072A57053E}|EFcoreEg.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFcoreEg",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\EFcoreEg.csproj",
+              "RelativeDocumentMoniker": "EFcoreEg.csproj",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\EFcoreEg.csproj",
+              "RelativeToolTip": "EFcoreEg.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T08:44:27.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:08:54.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:08:39.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WiproSampleDbContext.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Models\\WiproSampleDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\WiproSampleDbContext.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Models\\WiproSampleDbContext.cs",
+              "RelativeToolTip": "Models\\WiproSampleDbContext.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwEsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:07:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\EFcoreEg\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:44:54.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

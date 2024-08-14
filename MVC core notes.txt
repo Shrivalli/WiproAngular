@@ -1,0 +1,51 @@
+Web sites - collection of web pages(static and dynamic) and is hosted in web server(company, college)
+Web applications - websites+ business logic and is hosted in app server (IIS - Internet information services), tomcat, node, nginx
+
+
+3 types of applications in .net
+
+1. Desktop app - console/Windows
+2. Web apps 
+	1. Web app - website(Razor pages)
+	2. web app MVC - Model view controller(intro)
+	3. Web app API - 
+	4. Blazor -
+3. Mobile apps 
+
+
+URL of MVC:
+
+https://localhost:portnumber/controllername/actionmethodname --> return the view 
+
+
+MVC with EF core steps:
+
+1. Install 3 packages - efcore, efcore sql, efcore tools - build your project (dotnet restore in pm console)
+
+2. PM console: 
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=WiproSampleDb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+
+3. Add a controller by right clicking on the controller folder. - MVC with Entity framework template
+Model - courses
+Context - wiprosampledbcontext
+
+
+4.  Program.cs(before u build the services)
+
+ builder.Services.AddDbContext<wiprosampledbcontext>(options =>
+       options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+5. In appsettings.json:(Line no 8)
+ 
+"ConnectionStrings": {
+      "DefaultConnection": "Server=(localdb)\MSSQLLocalDB;Database=wiprosampedb;Integrated Security=true"
+    },
+
+
+https://localhost:portnumber/controllername/actionmethodname
+Eg: https://localhost:portnumber/Courses/Index
+
+
+
+

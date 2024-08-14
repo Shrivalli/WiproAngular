@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\dotnet with Angular Batch\\CalculatorPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2858321-68AF-4E5F-A965-D0C4D80880DB}|CalculatorPrj.csproj|e:\\wipro\\dotnet with angular batch\\calculatorprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2858321-68AF-4E5F-A965-D0C4D80880DB}|CalculatorPrj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2858321-68AF-4E5F-A965-D0C4D80880DB}|CalculatorPrj.csproj|e:\\wipro\\dotnet with angular batch\\calculatorprj\\calculatorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2858321-68AF-4E5F-A965-D0C4D80880DB}|CalculatorPrj.csproj|solutionrelative:calculatorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DB5F83-5D83-410C-B051-2143E7CA3D03}|..\\CalcTest\\CalcTest.csproj|e:\\wipro\\dotnet with angular batch\\calctest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\CalcTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CalcTest\\UnitTest1.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\CalcTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CalcTest\\UnitTest1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:01:13.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorClient.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\CalculatorPrj\\CalculatorClient.cs",
+              "RelativeDocumentMoniker": "CalculatorClient.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\CalculatorPrj\\CalculatorClient.cs",
+              "RelativeToolTip": "CalculatorClient.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:56:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\CalculatorPrj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\CalculatorPrj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:53:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

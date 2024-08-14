@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\oopseg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:oopseg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\fileeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:fileeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\empclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:empclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\bin\\debug\\net8.0\\abc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:bin\\debug\\net8.0\\abc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\votinclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:votinclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\exceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:exceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\agenotvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:agenotvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\calciclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:calciclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\casio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:casio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:samsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\shapeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:shapeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\studentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:studentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|e:\\wipro\\dotnet with angular batch\\oopseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95711D81-2B75-4BE1-B1FE-431B28258AEC}|OOPSEg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPSEg",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\OOPSEg.csproj",
+              "RelativeDocumentMoniker": "OOPSEg.csproj",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\OOPSEg.csproj",
+              "RelativeToolTip": "OOPSEg.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T03:36:57.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "abc.txt",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\bin\\Debug\\net8.0\\abc.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\abc.txt",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\bin\\Debug\\net8.0\\abc.txt",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\abc.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-01T12:00:55.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpClient.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\EmpClient.cs",
+              "RelativeDocumentMoniker": "EmpClient.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\EmpClient.cs",
+              "RelativeToolTip": "EmpClient.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:17:50.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Emp.cs",
+              "RelativeDocumentMoniker": "Emp.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Emp.cs",
+              "RelativeToolTip": "Emp.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwD4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:07:03.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileEg.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\FileEg.cs",
+              "RelativeDocumentMoniker": "FileEg.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\FileEg.cs",
+              "RelativeToolTip": "FileEg.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:39:26.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VotinClient.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\VotinClient.cs",
+              "RelativeDocumentMoniker": "VotinClient.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\VotinClient.cs",
+              "RelativeToolTip": "VotinClient.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:30:38.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgeNotValidException.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\AgeNotValidException.cs",
+              "RelativeDocumentMoniker": "AgeNotValidException.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\AgeNotValidException.cs",
+              "RelativeToolTip": "AgeNotValidException.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:27:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionEg.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\ExceptionEg.cs",
+              "RelativeDocumentMoniker": "ExceptionEg.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\ExceptionEg.cs",
+              "RelativeToolTip": "ExceptionEg.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:42:06.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Samsung.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Samsung.cs",
+              "RelativeDocumentMoniker": "Samsung.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Samsung.cs",
+              "RelativeToolTip": "Samsung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:54:18.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalciClient.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\CalciClient.cs",
+              "RelativeDocumentMoniker": "CalciClient.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\CalciClient.cs",
+              "RelativeToolTip": "CalciClient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:49:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Casio.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Casio.cs",
+              "RelativeDocumentMoniker": "Casio.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Casio.cs",
+              "RelativeToolTip": "Casio.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:46:29.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\ICalculator.cs",
+              "RelativeDocumentMoniker": "ICalculator.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\ICalculator.cs",
+              "RelativeToolTip": "ICalculator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:40:28.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:04:45.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShapeClient.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\ShapeClient.cs",
+              "RelativeDocumentMoniker": "ShapeClient.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\ShapeClient.cs",
+              "RelativeToolTip": "ShapeClient.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:06:37.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentClient.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\StudentClient.cs",
+              "RelativeDocumentMoniker": "StudentClient.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\StudentClient.cs",
+              "RelativeToolTip": "StudentClient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA/wAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:44:13.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\OOPSEg\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:32:12.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

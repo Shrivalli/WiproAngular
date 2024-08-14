@@ -1,0 +1,167 @@
+Algorithm - step by step process to complete a particular task
+
+Example : Add two number and display the result
+
+1. Declare three variables
+2. Accept the value for two variables from the user
+3. Add them and store the result in the third variable
+4. Print the third variable. 
+
+Flowchart - pictorial representation  - draw.io, lucid charts
+
+Pseudocode - representation of code 
+
+Example:
+
+1. Declare  three variables first, second and result 
+2. Input first and second
+3. result=first+second
+4. Print result
+
+Program - 
+
+What is .NET -  Framework (SDK)
+
+1. Languages - C#, VB.NET, J#, F#
+2. Base Class Library - 
+3. Runtime Environment - Common Language Runtime
+
+
+Source code ------------------------> Compiler-----------------> CLR ------------> native code (Operating System) ----> output
+(C#.NET, VB.NET, J#.NET, F#.NET)		(MSIL/CIL)       (JIT compiler)
+
+
+
+.NET framework ( 4.6) - windows operating system
+.NET core - all operating systems (windows, mac, Linux) - 8.0 - platform independent
+
+Visual Studio - IDE - Integrated Development Environment 
+
+Visual studio 2022 - 
+
+
+Datatypes are categorized as
+
+1.Value Types - the data is stored. (int, float, bool, struct, Enum, datetime)
+2. Reference Types  - where the address is stored (string, class, object, delegate, interface)
+
+
+OOPS:
+
+1. Class
+User Defined Datatype
+Generalization of data
+Entity which is made up of Member variables and Methods
+
+2. Object/Instance
+Specialization of a class
+
+3. Data Encapsulation 
+Wrapping Member variables and Member functions into one entity called class.
+
+4. Data Abstraction
+Hiding unnecessary details(implementation) and exposing the required information to the user.
+
+Access Specifiers:
+
+1. Private - with in the class (Everything within the class is private)
+2. Protected - derived class
+3. Internal  - within the same namespace(Default access specifier for class is internal) 
+4. Public - different projects (Default access specifier of a namespace is always public)
+
+Private classes are not possible in C#
+
+Garbage collector(GC) - Algorithms
+
+Constructor 
+1. A special method which has the same name as the class name
+2. It is used to initialize the member variables (assign the values to the mem variables)
+3. It is automatically called during Instantiation
+4. The access specifier for a constructor should be always public
+5. They cannot have return types.
+
+Properties:
+
+Member variables cannot be accessed outside the class - private
+
+1. Member functions- 
+
+2. properties - functions for individual variables to be accessed outside the class
+
+1. set property - assign the value (mutators)
+2. get property - to fetch the value of the variable (accessors)
+
+Auto implemented properties
+public int Sid{get; set;}
+
+Read only properties
+public int Sid{get;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

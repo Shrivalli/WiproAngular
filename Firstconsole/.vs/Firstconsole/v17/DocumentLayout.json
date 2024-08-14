@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\dotnet with Angular Batch\\Firstconsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5902B164-33C5-4980-B676-3BA1EA84976C}|Firstconsole.csproj|e:\\wipro\\dotnet with angular batch\\firstconsole\\valref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902B164-33C5-4980-B676-3BA1EA84976C}|Firstconsole.csproj|solutionrelative:valref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5902B164-33C5-4980-B676-3BA1EA84976C}|Firstconsole.csproj|e:\\wipro\\dotnet with angular batch\\firstconsole\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902B164-33C5-4980-B676-3BA1EA84976C}|Firstconsole.csproj|solutionrelative:second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5902B164-33C5-4980-B676-3BA1EA84976C}|Firstconsole.csproj|e:\\wipro\\dotnet with angular batch\\firstconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902B164-33C5-4980-B676-3BA1EA84976C}|Firstconsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Second.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\Firstconsole\\Second.cs",
+              "RelativeDocumentMoniker": "Second.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\Firstconsole\\Second.cs",
+              "RelativeToolTip": "Second.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:08:22.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValRef.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\Firstconsole\\ValRef.cs",
+              "RelativeDocumentMoniker": "ValRef.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\Firstconsole\\ValRef.cs",
+              "RelativeToolTip": "ValRef.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:56:24.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\dotnet with Angular Batch\\Firstconsole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Wipro\\dotnet with Angular Batch\\Firstconsole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:00:02.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
