@@ -1,0 +1,77 @@
+JSON - JavaScript Object Notation:
+
+[
+{
+    "date": "2024-08-14",
+    "temperatureC": 51,
+    "temperatureF": 123,
+    "summary": "Bracing"
+},
+ {
+    "date": "2024-08-15",
+    "temperatureC": 38,
+    "temperatureF": 100,
+    "summary": "Warm"
+  }
+
+]
+
+
+use("school");
+ 
+//show dbs;
+//use school;
+ 
+ 
+db.getMongo().getDBs();
+db.getCollectionNames();
+ 
+db.students.insertOne({"name":"joes","age":35,"city":"Salem"});
+db.students.find();
+ 
+db.students.insertOne({"name":"Ram","age":25,"city":"Chennai","contact":"9876543210"});
+db.students.find();
+ 
+db.students.insertOne({"name":"Sam","age":20,"city":"Chennai","contact":"9885967895","address":{"street":"cherry Road","pincode":"636007"}});
+db.students.find();
+db.students.find({ name: "joes" });
+db.students.insertOne({"_id": 2,"name": "Sara","hobbies": ["Dancing","Drawing", "Singing" ]});
+ 
+ 
+db.students.insertMany([
+  {"_id":3,"name":"Ramesh"},
+  {"_id":4,"name":"Tiya","age":15},
+  {"name":"Diya","age":5}
+]);
+ 
+ 
+db.students.find({},{"_id":0,"name":1,"age":1});
+
+db.students.insertMany([
+    {
+        "Name":"Sam",
+        "Age":23,
+        "Gender":"Male",
+        "City":"Salem"
+    },
+    {
+        "Name":"Ram",
+        "Age":33,
+        "Gender":"Male",
+        "City":"Coimbatore"
+    },
+    {
+        "Name":"Sara",
+        "Age":21,
+        "Gender":"Female",
+        "City":"Chennai"
+    }
+])
+
+db.students.find({"Name":"Sam"}) - where condition
+db.students.find({"Name":"Sam"}).count() - count the number of records
+db.students.find().limit(2) - to restrict the number of rows (limit(-2) --> descending order)
+db.students.find().sort({"Name":1}) - sort based on "name" field (display all columns)
+db.students.find().sort({"Name":-1}) - sort by name in descending order
+db.students.find({"Gender":"Male"},{"Gender":1,"Name":1,"_id":0}) - show and hide columns
+db.user.distinct("Blood_Group") - displays all blood group in the collection
