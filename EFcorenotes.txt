@@ -1,0 +1,62 @@
+dotnet ef dbcontext scaffold "Server=(localdb)\MSSQLLocalDB;Database=FISBankDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models -force
+
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=WiproSampleDb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+
+MySQL
+1. EFCore
+2. Install-Package MySql.EntityFrameworkCore -Version 7.0.2
+3. EFcore Tools
+
+scaffold-Dbcontext "server=127.0.0.1; port=3306;uid=root;pwd=abc;database=wiprodb" MySql.EntityFrameworkcore -o Model
+
+
+In appsettings.json:(Line no 8)
+ "ConnectionStrings": {
+      "DefaultConnection": "Server=Server=(localdb)\MSSQLLocalDB;Database=Fareportal;User id=abc; Password=def;"
+    },
+
+ Program.cs
+ builder.Services.AddDbContext<FareportalContext>(options =>
+       options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+Controller:
+public static FisbankDbContext db;
+        
+        //Dependency Injection  in constructor
+        public EmployeeController(FisbankDbContext _db)
+        {
+            db=_db;
+        }
+
+
+<ItemGroup>
+  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
+  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.7" />
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.7">
+    <PrivateAssets>all</PrivateAssets>
+    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+  </PackageReference>
+</ItemGroup>
+
+
+Model -> create product.cs, supplier.cs, shoppingcartcontext.cs
+
+
+        public ShoppingCartContext(DbContextOptions<ShoppingCartContext> options)
+            : base(options)
+        {
+        }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=ShoppingContext;Trusted_Connection=True;");
+            }
+
+        }
+
+add-migration "migr1"
+update-database "migr1"
+
