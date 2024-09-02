@@ -1,3 +1,10 @@
+Cors in Api:
+
+In program.cs
+
+builder.Services.AddCors(); //Cross Origin Resource Sharing
+app.UseCors(options => options.WithOrigins("http://localhost:4200/").AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin());
+
 API call in Angular:
 
 1. Import HTTPClientModule in app.module.ts
