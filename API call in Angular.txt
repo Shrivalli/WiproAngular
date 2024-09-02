@@ -1,0 +1,167 @@
+API call in Angular:
+
+1. Import HTTPClientModule in app.module.ts
+
+import {HttpClientModule} from '@angular/common/http';
+
+imports: [
+    BrowserModule,
+    AppRoutingModule,
+    FormsModule,
+    HttpClientModule
+  ],
+
+2. Create an Interface with the classname:
+
+export interface Customer
+{
+    cid:number;
+    cname:string;
+    sal:number;
+    doj:Date;
+    city:string;
+    deptid:Department;
+}
+
+3. Create a service custService.ts
+
+import { Injectable } from '@angular/core';
+import { Customer } from 'src/Models/Customer';
+import { HttpClient, HttpErrorResponse, HttpHeaders } from '@angular/common/http';
+import { Observable } from 'rxjs/internal/Observable';
+import { catchError, throwError } from 'rxjs';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class CustService {
+cust:Customer;
+customers:Customer[];
+
+constructor(private http:HttpClient) { }
+
+req:string="https://localhost:7213/api/Customers";
+
+  
+
+getAllUsers():Observable<Customer[]>
+{
+  return this.http.get<Customer[]>(this.req);
+}
+
+
+createUser(customer:Customer):Observable<Customer>
+{
+  return this.http.post<Customer>(this.req,customer,{
+    headers:new HttpHeaders({
+      'Content-Type':'application/json;charset=UTF-8',
+      'Access-Control-Allow-Origin':'*',
+      'Access-Control-Allow-Method':'*'
+      
+    })
+  });
+}
+
+
+updateUser(id:number,customer:Customer):Observable<any>
+{
+  
+  return this.http.put<any>(this.req+"/"+id,customer,{
+    headers:new HttpHeaders({
+      'Content-Type':'application/json;charset=UTF-8',
+      'Access-Control-Allow-Origin':'*',
+      'Access-Control-Allow-Method':'*'
+    })
+  });
+}
+
+
+
+deleteUser(id:number):Observable<any>
+{
+  return this.http.delete<any>(this.req+"/"+id,{
+    headers:new HttpHeaders({
+      'Content-Type':'application/json;charset=UTF-8',
+      'Access-Control-Allow-Origin':'*',
+      'Access-Control-Allow-Method':'*'
+    })
+  });
+}
+
+//Method to test error handling.
+register():Observable<any>
+{
+  //Giving incorrect URL.
+  return this.http.get<any>('https://localhost:7213/api/Customers')
+         .pipe(catchError(this.manageError));
+}
+
+
+//Method to handle errors.
+private manageError(err_response:HttpErrorResponse)
+{
+  if(err_response.error instanceof ErrorEvent)
+  console.error('Client Side Error:',err_response.error.message);
+  else
+  console.error('Server Side Error:',err_response);
+
+  return throwError('There is a little problem while processing your request.Sorry for the inconvenience');
+
+
+}
+
+ ngOnInit(){}
+}
+
+
+4. Create a Component.ts and Inject the service
+
+
+export class CustomerlistComponent implements OnInit {
+  customers:Customer[]=[];
+  flag=true;
+    constructor(private custservice:CustService){}
+    
+    //page load event
+    ngOnInit()
+    {
+     this.getcustomers(); 
+    }
+
+    getcustomers():void{
+    this.custservice.getAllUsers().subscribe(data=>{
+      this.customers=data;
+      console.log(this.customers);
+    });
+  }
+
+}
+
+5. In CustomerList.component.html - loop through the array and display
+
+<p>Customer-list works!</p>
+<div *ngIf="flag">
+     <!-- {{emps|json}}  -->
+    <table class="table">
+      <thead>
+        <th> Cid </th>
+        <th> Cname </th>
+          <th> Salary</th>
+          <th> Date of Joining </th>
+          <th> City </th>
+          <th> Department ID </th>
+          
+      </thead>
+      
+      <tr *ngFor="let i of customers">
+        <td> {{i.cid}}</td>
+        <td> {{i.cname}}</td>
+        <td>{{i.sal|currency}}</td>
+        <td>{{i.doj|date}}</td>
+        <td>{{i.city}}</td>
+        <td> {{i.deptid}}</td>
+        
+        
+      </tr>
+    </table>
+  </div>
